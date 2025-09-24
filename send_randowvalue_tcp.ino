@@ -1,7 +1,7 @@
 // WiFi Clint Demo1 by Min => Auto Send and Command Receive
 #include <WiFi.h>
 // ** Start WiFi Config Zone
-char ssid[] = "Friend";
+char ssid[] = "Friendss";
 char pass[] = "0971231329";
 
 const char* host = "172.20.10.5";
